@@ -1,2 +1,13 @@
-# Text_Mining_Project
-NLP, text classification, clustering, topic modelling and summarization
+# Text Mining Project
+
+*Angelina Khatiwada, MSc Data Science and Economics, UNIMI*
+
+Feb, 2021
+
+### Project description: ###
+
+- Text pre-processing
+- Classification
+- Clustering
+- Topic Modelling
+- Summarization
