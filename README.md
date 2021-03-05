@@ -5,7 +5,7 @@
 Feb, 2021
 
 **Datasets:** 
-- Coprus 1: The SMS Spam Collection v.1, a public set of SMS labeled messages that have been collected for mobile phone spam research and tagged according being legitimate (ham) or spam [link] (http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/)
+- Coprus 1: The SMS Spam Collection v.1, a public set of SMS labeled messages that have been collected for mobile phone spam research and tagged according being legitimate (ham) or spam [link](http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/)
 
 - Corpus 2: 20 BBC News Articles (collected through web scraping in Part b)
 
@@ -22,6 +22,7 @@ Feb, 2021
 - Creating pipelines for data processing
 
 **Part b: Classication and clustering, topic model and summarisation**
+
 *Spam/Non spam emails*:
 - Preprocessing using pipelines
 - Classification:
@@ -33,7 +34,7 @@ Feb, 2021
   - classifying new emails
 - Clustering using K-means and Agglomerative Clustering
 
-*BBC News Articles*
+*BBC News Articles*:
 - Text web scraping
 - Text preprocessing using pipelines
 - Topic modelling with Latent Dirichlet Allocation (LDA) and topics visualization
