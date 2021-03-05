@@ -4,12 +4,12 @@
 
 Feb, 2021
 
-#### Datasets:
+#### Datasets
 - Coprus 1: [The SMS Spam Collection v.1](http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/), a public set of SMS labeled messages that have been collected for mobile phone spam research and tagged according being legitimate (ham) or spam
 
-- Corpus 2: 20 [BBC News Articles](v) (collected through web scraping in Part b)
+- Corpus 2: 20 [BBC News Articles](https://www.bbc.com/news) (collected through web scraping in Part b)
 
-### Project description: 
+### Project description
 
 #### Part a:  Text data pre-processing
 - Importing text data
@@ -40,4 +40,5 @@ Feb, 2021
 - Topic modelling with Latent Dirichlet Allocation (LDA) and topics visualization
 - Summarization with embeddings and TextRank 
 
-**Libraries used:** nltk, scikit-learn, gensim, matplotlib, beautifulsoup4, scipy, NetworkX, pandas, numpy, wordcloud
+#### Libraries used
+nltk, scikit-learn, gensim, matplotlib, beautifulsoup4, scipy, NetworkX, pandas, numpy, wordcloud
