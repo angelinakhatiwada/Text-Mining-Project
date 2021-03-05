@@ -5,9 +5,9 @@
 Feb, 2021
 
 **Datasets:** 
-- Coprus 1: The SMS Spam Collection v.1, a public set of SMS labeled messages that have been collected for mobile phone spam research and tagged according being legitimate (ham) or spam [link](http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/)
+- Coprus 1: [The SMS Spam Collection v.1](http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/), a public set of SMS labeled messages that have been collected for mobile phone spam research and tagged according being legitimate (ham) or spam
 
-- Corpus 2: 20 BBC News Articles (collected through web scraping in Part b)
+- Corpus 2: 20 [BBC News Articles](v) (collected through web scraping in Part b)
 
 ### Project description: ###
 
