@@ -4,14 +4,14 @@
 
 Feb, 2021
 
-**Datasets:** 
+#### Datasets:
 - Coprus 1: [The SMS Spam Collection v.1](http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/), a public set of SMS labeled messages that have been collected for mobile phone spam research and tagged according being legitimate (ham) or spam
 
 - Corpus 2: 20 [BBC News Articles](v) (collected through web scraping in Part b)
 
-### Project description: ###
+### Project description: 
 
-**Part a:  Text data pre-processing**
+#### Part a:  Text data pre-processing
 - Importing text data
 - Corpus cleaning (removing stopwords, punctuation)
 - Tokenization (working with unigrams, bigrams, unigrams and bigrams)
@@ -21,7 +21,7 @@ Feb, 2021
 - Standartization 
 - Creating pipelines for data processing
 
-**Part b: Classication and clustering, topic model and summarisation**
+#### Part b: Classication and clustering, topic model and summarisation
 
 *Spam/Non spam emails*:
 - Preprocessing using pipelines
