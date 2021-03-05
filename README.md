@@ -4,10 +4,40 @@
 
 Feb, 2021
 
+**Datasets:** 
+- Coprus 1: The SMS Spam Collection v.1, a public set of SMS labeled messages that have been collected for mobile phone spam research and tagged according being legitimate (ham) or spam (http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/)
+
+- Corpus 2: 
+
+
 ### Project description: ###
 
-- Text pre-processing
-- Classification
-- Clustering
-- Topic Modelling
-- Summarization
+**Part a:  Text data pre-processing**
+- Importing text data
+- Corpus cleaning (removing stopwords, punctuation)
+- Tokenization (working with unigrams, bigrams, unigrams and bigrams)
+- Word frequency visualization using WordCloud
+- Vectorization and Feature extraction (CountVectorizer, TfidfVectorizer)
+- PCA, Feature selection (TruncatedSVD, chi2)
+- Standartization 
+- Creating pipelines for data processing
+
+**Part b: Classication and clustering, topic model and summarisation**
+*Spam/Non spam emails*:
+- Emails preprocessing using pipelines
+- Emails Classification:
+  - splitting data into training and test
+  - tuning parameteres with GridSearchCV
+  - models applied: Logistic Regression, Naive Bayes Classifier, Support Vector Machine, Perceptron
+  - model evaluation
+  - plotting ROC curve
+  - classifying new emails
+- Emails Clustering using K-means and Agglomerative Clustering
+
+*BBC News Articles*
+- Articles text web scraping
+- Articles text preprocessing using pipelines
+- Topic modelling with Latent Dirichlet Allocation (LDA) and topics visualization
+- Summarization with embeddings and TextRank 
+
+**Libraries used:** nltk, scikit-learn, gensim, matplotlib, beautifulsoup4, scipy, NetworkX, pandas, numpy, wordcloud
